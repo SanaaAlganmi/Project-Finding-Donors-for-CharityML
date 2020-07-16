@@ -21,4 +21,5 @@ matplotlib
 ## This project contains three files:
 
 finding_donors.ipynb: This is the main file where all works description is given.
+
 census.csv: The project dataset. This dataset is loaded in the notebook.

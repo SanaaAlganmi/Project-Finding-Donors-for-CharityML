@@ -13,9 +13,13 @@ This project is designed to get acquainted with the many supervised learning alg
 This project uses the following software and Python libraries:
 
 Python 2.7
+
 NumPy
+
 Pandas
+
 scikit-learn
+
 matplotlib
 
 ## This project contains three files:
